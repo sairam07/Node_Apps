@@ -4,7 +4,7 @@ This is to store passwords for all accounts in an encrypted way
 
 Please find the below commands to use it.
 
-creating account command: node app.js createAccount --an facebook --un sairam --password 2093 --mp 123
+creating account command: node app.js createAccount --an facebook --un abcdef --password abc123 --mp 123
 get account: node app.js get --an facebook --mp 123
 
 */
